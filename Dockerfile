@@ -10,5 +10,5 @@ WORKDIR /physionet2019
 ## Install your dependencies here using apt-get etc.
 
 ## Do not edit if you have a requirements.txt
-RUN pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/ 
+RUN pip install -r requirements.txt  
 
